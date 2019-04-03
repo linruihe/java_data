@@ -2,6 +2,10 @@ package com.linruihe.common.queue;
 
 import com.linruihe.common.array.GenericArray;
 
+/**
+ * 数组实现的队列
+ * @param <T>
+ */
 public class ArrayQueue<T> {
 
     private GenericArray<T> array = null;

@@ -3,7 +3,7 @@ package com.linruihe.common.queue;
 import com.linruihe.common.linkedlist.SinglyGenericLinkedList;
 
 /**
- * 单向链表实现的栈
+ * 单向链表实现的队列
  * @param <T>
  */
 public class LinkedListQueue<T> {
